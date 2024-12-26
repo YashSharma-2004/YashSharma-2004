@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Yash Sharma
-- 👀 I’m interested in Android Development, Competitive Programming
-- 🌱 I’m currently learning Android development
+- 👋 Hi, I’m Yash Sharma. Currently, I am in final year of Btech CSE at Nirma University 
+- 🌱 I’m currently learning Android development, Web Development and Data Structures and Algorithms
 - 📫 How to reach me 
 - LinkedIn: - https://www.linkedin.com/in/yash-sharma-853210211/
 
